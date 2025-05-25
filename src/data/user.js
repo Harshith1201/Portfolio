@@ -3,7 +3,7 @@ const INFO = {
 		title: "Harshith Gangisetty | Portfolio",
 		name: "Harshith Gangisetty",
 		email: "harshithgangisetty@gmail.com",
-		logo: "../logo.png",
+		logo: "/Portfolio/logo.png",
 	},
 
 	socials: {
@@ -72,7 +72,7 @@ const INFO = {
 			title: "CyberReach – Cybersecurity Awareness Platform",
 			description:
 				"CyberReach is a project I'm deeply involved with as a content curator. We created this platform to make cybersecurity knowledge accessible to everyone. I developed a custom Python scraper using BeautifulSoup and Scrapy that automatically collects and summarizes the latest cybersecurity news. I also write and edit educational content about security best practices, emerging threats, and privacy tips. Our goal is to help people protect themselves online through engaging, easy-to-understand resources.",
-			logo: "./cybereach.png",
+			logo: "/Portfolio/cybereach.jpg",
 			linkText: "View Project",
 			link: "https://github.com/Harshith1201/cybereach-platform",
 		},
