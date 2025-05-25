@@ -2,36 +2,36 @@ const SEO = [
 	{
 		page: "home",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"Harshith Gangisetty is a Computer Science student specializing in Cyber Security with a keen interest in AI and network automation. Explore his portfolio to learn about his projects and skills.",
+		keywords: ["Harshith Gangisetty", "Cyber Security", "AI", "Network Automation", "Computer Science", "Portfolio"],
 	},
 
 	{
 		page: "about",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"Learn more about Harshith Gangisetty, a Computer Science student from Amrita Vishwa Vidyapeetham with a focus on Cybersecurity, AI, and emerging technologies.",
+		keywords: ["Harshith Gangisetty", "About", "Computer Science", "Cybersecurity", "Amrita Vishwa Vidyapeetham", "Education"],
 	},
 
 	{
 		page: "articles",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"Read Harshith Gangisetty's articles on cybersecurity, artificial intelligence, and emerging technologies. Gain insights into the latest trends and developments in the tech world.",
+		keywords: ["Harshith Gangisetty", "Articles", "Cybersecurity", "AI", "Technology", "Blog"],
 	},
 
 	{
 		page: "projects",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"Explore Harshith Gangisetty's projects in cybersecurity, AI, and web development. From threat intelligence systems to IoT applications, discover his technical skills and achievements.",
+		keywords: ["Harshith Gangisetty", "Projects", "Cybersecurity", "AI", "IoT", "Web Development", "Portfolio"],
 	},
 
 	{
 		page: "contact",
 		description:
-			"If you're interested in collaborating on a project, feel free to reach out to me. I'm always open to new ideas and opportunities.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"Get in touch with Harshith Gangisetty for collaboration, opportunities, or inquiries. Connect via email or social media platforms.",
+		keywords: ["Harshith Gangisetty", "Contact", "Email", "LinkedIn", "Collaboration", "Opportunities"],
 	},
 ];
 

@@ -1,82 +1,80 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "Harshith Gangisetty | Portfolio",
+		name: "Harshith Gangisetty",
+		email: "harshithgangisetty@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
+		github: "https://github.com/Harshith1201",
+		linkedin: "https://www.linkedin.com/in/harshith-gangisetty-10071524a/",
 		instagram: "https://instagram.com/",
-		stackoverflow: "https://stackoverflow.com/",
 		facebook: "https://facebook.com/",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Computer Science student specializing in Cyber Security with a keen interest in AI and network automation.",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"I'm a Computer Science student at Amrita Vishwa Vidyapeetham with a focus on Cybersecurity. I have experience in Selenium-based automation, cybersecurity fundamentals, and tech writing. I'm passionate about leveraging emerging technologies to solve real-world problems and continuously expanding my knowledge in the field of cybersecurity and AI.",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "I'm Harshith Gangisetty, a Computer Science student from Coimbatore, Tamil Nadu.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"I'm currently pursuing my B.Tech in Computer Science Engineering with a concentration in Cybersecurity at Amrita Vishwa Vidyapeetham, expected to graduate in May 2026. With a CGPA of 7.89/10.0, I've focused on coursework including Object-Oriented Programming, Data Structures & Algorithms, Operating Systems, Computer Organization & Architecture, Database Management, and Cryptography. I'm passionate about cybersecurity, AI, and using technology to solve real-world problems. I actively participate in workshops, competitions, and have earned several certifications in areas like networking, prompt engineering, and AI.",
 	},
 
 	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
+		title: "Sharing insights and knowledge about cybersecurity, AI, and technology.",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+			"A collection of my thoughts, tutorials, and analyses on topics related to cybersecurity, artificial intelligence, and emerging technologies.",
 	},
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Malware Threat Intelligence Scrapper",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 2",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"I built this real-time threat intelligence system out of my passion for cybersecurity. It automatically collects and analyzes malware, vulnerability, and phishing data from various online sources. I'm particularly proud of implementing the NLP components that help analyze threats and validate community reports. The web dashboard makes it easy for users to access actionable insights through a clean API.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/Harshith1201/malware-threat-intelligence-scrapper",
 		},
 
 		{
-			title: "Project 3",
+			title: "IOT-based Blood Bank Management System",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Working with a small team of three, I helped create this innovative blood bank management solution that I'm really excited about. We developed two React Native apps and a website that connect donors with recipients, while using IoT sensors to monitor blood storage conditions. I implemented the QR code-based safety verification system and worked on the real-time tracking features. This project taught me a lot about healthcare tech and the importance of reliable systems when lives are at stake.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			linkText: "View Project",
+			link: "https://github.com/Harshith1201/blood-bank-management",
+		},
+
+		{
+			title: "Human Factors Influencing Password Choices",
+			description:
+				"I'm currently conducting an ongoing research study on how people choose their passwords in Tamil Nadu. This project is close to my heart as it combines psychology with cybersecurity. We're gathering data through surveys to understand password habits and preferences. I'd love your contribution to this research! Please consider taking our short survey to help us develop better password policies that balance security with usability.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+			linkText: "Take the Survey",
+			link: "https://docs.google.com/forms/d/e/1FAIpQLSfYvVswr5dP1eylXbjS0-G_oZ9j5aDq5iXJxZDlJcN35C_PDA/viewform",
+		},
+
+		{
+			title: "Implementation of Schnorr Signature",
+			description:
+				"During my cryptography coursework, I became fascinated with Schnorr signatures and their applications in blockchain technology. I created this interactive web-based simulation to help others understand how these digital signatures work. The project features a visual demonstration of signature aggregation and verification, making complex cryptographic concepts more accessible. I built this using Flask for the backend and simple HTML/CSS for the frontend interface.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/Harshith1201/schnorr-signature-implementation",
 		},
 
 		{
-			title: "Project 4",
+			title: "CyberReach – Cybersecurity Awareness Platform",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"CyberReach is a project I'm deeply involved with as a content curator. We created this platform to make cybersecurity knowledge accessible to everyone. I developed a custom Python scraper using BeautifulSoup and Scrapy that automatically collects and summarizes the latest cybersecurity news. I also write and edit educational content about security best practices, emerging threats, and privacy tips. Our goal is to help people protect themselves online through engaging, easy-to-understand resources.",
+			logo: "./cybereach.png",
 			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/Harshith1201/cybereach-platform",
 		},
 	],
 };

@@ -4,7 +4,7 @@
 	display: flex;
 	justify-content: left;
 	align-items: center;
-	padding-top: 130px;
+	padding-top: 80px;
 }
 
 .homepage-container {
@@ -78,6 +78,13 @@
 	padding-top: 40px;
 }
 
+.homepage-game {
+	margin-top: 60px;
+	display: flex;
+	justify-content: center;
+	padding: 0 20px;
+}
+
 .homepage-articles {
 	flex-basis: 900px;
 	padding-top: 30px;
@@ -146,5 +153,10 @@
 		flex-basis: auto;
 		margin-left: -25px;
 		margin-right: -25px;
+	}
+
+	.homepage-game {
+		margin-top: 40px;
+		padding: 0 10px;
 	}
 }

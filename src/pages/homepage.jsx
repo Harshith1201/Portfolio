@@ -12,10 +12,10 @@ import {
 
 import Logo from "../components/common/logo";
 import Footer from "../components/common/footer";
-import NavBar from "../components/common/navBar";
 import Article from "../components/homepage/article";
 import Works from "../components/homepage/works";
 import AllProjects from "../components/projects/allProjects";
+import CoverPage from "../components/homepage/CoverPage";
 
 import INFO from "../data/user";
 import SEO from "../data/seo";
@@ -80,7 +80,7 @@ const Homepage = () => {
 			</Helmet>
 
 			<div className="page-content">
-				<NavBar active="home" />
+				<CoverPage />
 				<div className="content-wrapper">
 					<div className="homepage-logo-container">
 						<div style={logoStyle}>
